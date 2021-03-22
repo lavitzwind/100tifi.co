@@ -1,1 +1,1 @@
-100tifi.co - SPA (Single Page Applications)
+100tifi.co - SPA (Single Page Application)
