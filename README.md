@@ -14,14 +14,14 @@ This project has three pages: *home*, *character* and *404 error*.
 
 ## Demo
 
-If you want to see the demo of this project deployed, you can visit [https://wilson-romero.github.io/spa-js-vanilla/](https://wilson-romero.github.io/spa-js-vanilla/)
+If you want to see the demo of this project deployed, you can visit [https://lavitzwind.github.io/100tifi.co/](https://lavitzwind.github.io/100tifi.co/)
 
 ## How to clone
 
 To clone the repository, follow the steps below on the command line:
 
 ```console
-   git clone https://github.com/wilson-romero/spa-js-vanilla.git
+   git clone https://github.com/lavitzwind/100tifi.co.git
    cd spa-js-vanilla
 ```
 
