@@ -22,7 +22,7 @@ To clone the repository, follow the steps below on the command line:
 
 ```console
    git clone https://github.com/lavitzwind/100tifi.co.git
-   cd spa-js-vanilla
+   cd 100tifi.co
 ```
 
 ## Installation and execution
