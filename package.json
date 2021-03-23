@@ -1,7 +1,7 @@
 {
   "name": "100tifi.co",
   "version": "1.0.0",
-  "description": "sigle page application",
+  "description": "single page application",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
