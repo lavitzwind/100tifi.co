@@ -23,7 +23,7 @@
   "homepage": "https://github.com/lavitzwind/100tifi.co#readme",
   "devDependencies": {
     "@babel/core": "^7.14.0",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.3.0",
     "copy-webpack-plugin": "^8.1.1",
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.36.2",
